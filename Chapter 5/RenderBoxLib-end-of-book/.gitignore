@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+/renderbox/build/*
+!/renderbox/build/outputs/
+/renderbox/build/outputs/*
+!/renderbox/build/outputs/aar/
+/renderbox/build/outputs/aar/renderbox-release.aar
